@@ -19,7 +19,7 @@ Water Sampling
 ## Arena 
 <img src = "https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/Arena.png"><br /> 
 
-## Poster
+## [Poster](https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/Final%20Poster.pdf)
 <img src = "https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/Final%20Poster.jpg" width = '800'><br /> 
 
 ## Our Design
