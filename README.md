@@ -32,3 +32,6 @@ Water Sampling
 
 
 # Repo Contents
+* [Final Report](https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/Milestone%209%20Final%20Report%E2%80%94%E2%80%94Team%20Hydration%20Nation.pdf)
+* [Final Poster](https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/Final%20Poster.pdf)
+* [Final Circuitry](https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/final%20circuit_schem.pdf)
