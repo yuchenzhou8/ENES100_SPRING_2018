@@ -19,12 +19,16 @@ Water Sampling
 ## Arena 
 <img src = "https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/Arena.png"><br /> 
 
+## Poster
+<img src = "https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/Final%20Poster.jpg"><br /> 
+
 ## Our Design
 * Assembly
 
-<img src = "https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/Final%20assembly.jpg" width = "1000"><br /> 
+<img src = "https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/Final%20assembly.jpg" width = "500"><br /> 
 * Schematic 
 
-<img src = "https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/final%20circuit_schem.jpg" width = '800'><br />
+<img src = "https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/final%20circuit_schem.jpg" width = '500'><br />
+
 
 # Repo Contents
