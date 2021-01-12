@@ -25,7 +25,7 @@ Water Sampling
 ## Our Design
 * Assembly
 
-<img src = "https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/Final%20assembly.jpg" width = "500"><br /> 
+<img src = "https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/Final%20assembly.pdf" width = "500"><br /> 
 * Schematic 
 
 <img src = "https://github.com/yuchenzhou8/ENES100_Spring_2018/blob/main/final%20circuit_schem.jpg" width = '500'><br />
